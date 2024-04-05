@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "684732568163",
-    "project_id": "dbfirebase-ae773",
-    "storage_bucket": "dbfirebase-ae773.appspot.com"
+    "project_number": "157904467424",
+    "project_id": "fir-2-71904",
+    "storage_bucket": "fir-2-71904.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:684732568163:android:90a4a2fd18efa623fb1e56",
+        "mobilesdk_app_id": "1:157904467424:android:3dfa77b9bb962a05b46785",
         "android_client_info": {
           "package_name": "com.example.firebase"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDws1x_1z0yaaRTdwKr5oIOvMpl89M2rNc"
+          "current_key": "AIzaSyCadSxFXfc948FYhArCOV2E0ogCeEk8hQs"
         }
       ],
       "services": {
